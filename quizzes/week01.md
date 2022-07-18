@@ -2,31 +2,31 @@
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
-```
+```change directory= cd
 
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
-```
+```make directory=mkdir
 
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
-```
+```The tags go and very start and end of the document
 
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
-```
+```hypertext markup language
 
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
-```
+```cascading style sheets
 
 ```
 
@@ -35,38 +35,40 @@
  h1.main-title {
    color : rgba(255, 210, 33, .75);
  }
-```
-<!-- enter you answer in the space below -->
+```selector,  declaration block, properties, and values.
+<!-
 ```
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
-```
+```font weight 
 
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
-```
+```body tag
 
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
-```
+```<dl
+  <dt
+  <dd
 
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
-```
+```display: flex property: The flex container can change the width, height and order of the child elements.
 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
-```
+``` Content The content area consists of content like image, text, or other forms of media content
 
 ```
