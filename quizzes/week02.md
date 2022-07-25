@@ -13,6 +13,11 @@
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
+Single responsibility principle
+Open/closed principle 
+Liskov substitution principle 
+Interface segregation principle 
+Dependency inversion principle 
 
 ```
 **4.** Given this array: 
@@ -38,6 +43,9 @@ how would you .push the `them` object into the `you` object's array of friends?
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
+“If” statements: where if a condition is true it is used to specify execution for a block of code.
+“Else” statements: where if the same condition is false it specifies the execution for a block of code.
+“Else if” statements: this specifies a new test if the first condition is false
 
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
@@ -47,12 +55,12 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+index++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+document object model. 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
@@ -63,10 +71,10 @@ for ( let i = 0; i < arr.length; _______ ) {
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+In short, a parameter is part of the function/procedure/method signature and an argument is the actual value supplied at run-time and/or call-site for the parameter.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+The main difference between primitive value and the reference value is primitive types are passed by value, meaning they’re copied each time their value is used.
 ```
