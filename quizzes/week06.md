@@ -13,7 +13,7 @@ component is a model and
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+the v-repeat can be used to repeat an element in a collection of data.
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
